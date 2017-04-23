@@ -1,0 +1,14 @@
+{
+  "name": "blokur",
+  "version": "0.1.0",
+  "description": "A mini music app",
+  "main": "index.js",
+   "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Prateek Papriwal",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
